@@ -1,0 +1,6 @@
+{ 
+	"environment" : "javascript",
+	"start" : "index.js",
+	"input" : "string",
+	"output" : "string"
+}
